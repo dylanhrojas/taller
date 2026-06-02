@@ -1,5 +1,6 @@
 # One file
 hi.txt
+bye.txt
 
 # File types
 *.csv

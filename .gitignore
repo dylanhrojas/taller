@@ -1,0 +1,8 @@
+# One file
+hi.txt
+
+# File types
+*.csv
+
+# Directories
+priv/

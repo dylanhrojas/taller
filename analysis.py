@@ -6,3 +6,5 @@ def add(a, b):
     This is a basic sum function.
     """
     return a + b
+
+message = "main version"
